@@ -2,6 +2,20 @@
 
 All notable changes to this project are documented here.
 
+## [0.4.0]
+
+### Added - v0.4.0
+
+- ThaumCraft 2.1.3b
+
+### Changed
+
+- Reserved a dedicated block ID range for ThaumCraft to avoid conflicts with IC2.
+
+### Result - v0.4.0
+
+Thaumcraft loads successfully and is compatible with the current core modpack.
+
 ## [0.3.0]
 
 ### Added - v0.3.0
