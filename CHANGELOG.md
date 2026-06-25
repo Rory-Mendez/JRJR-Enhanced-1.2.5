@@ -2,6 +2,30 @@
 
 All notable changes to this project are documented here.
 
+## [1.0.0] - Stable version
+
+### Added - v1.0.0
+
+- Stable NEI setup using CodeChickenCore 0.5.3 and NotEnoughItems 1.2.2.4.
+- NEI RedPower Plugin.
+- NEI Buildcraft Plugin.
+- Tree Capitator mod.
+
+### Changed - v1.0.0
+
+- Replaced CodeChickenCore 0.5.2 with CodeChickenCore 0.5.3.
+- Replaced NotEnoughItems 1.3.0.1 with NotEnoughItems 1.2.2.4.
+- NEI is installed as a jar mod.
+- Disabled incompatible NEI plugins.
+
+### Result - v1.0.0
+
+- Stable modpack build reached.
+- NEI works in-game.
+- RedPower recipe integration works.
+- Buildcraft recipe integration works.
+- Treecapitator works.
+
 ## [0.9.0]
 
 ### Added - v0.9.0
@@ -97,7 +121,7 @@ Thaumcraft loads successfully and is compatible with the current core modpack.
 
 Forestry loads successfully and is compatible with the current core modpack.
 
-## [0.2.0] - Stable version
+## [0.2.0]
 
 ### Added - v0.2.0
 

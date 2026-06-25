@@ -2,10 +2,13 @@
 
 Complete compatibility list for JRJR Enhanced 1.2.5.
 
-## Active - v0.9.0
+## Active - v1.0.0
 
 | Category | Mod | File | Status | Notes |
 | --- | --- | --- | --- | --- |
+| JAR injection | CodeChickenCore | CodeChickenCore-Client 0.5.3.zip | Active | Injected in minecraft.jar |
+| JAR injection | NotEnoughItems | NotEnoughItems-Client 1.2.2.4.zip | Active | Injected in minecraft.jar |
+| JAR injection | GuiAPI | GuiAPI-0.14.4-1.2.5 | Active | Injected in minecraft.jar |
 | Base | AudioMod | AudioMod 1.2.5.zip | Active | Legacy sound dependency |
 | Base | ModLoader | ModLoader 1.2.5.zip | Active | Kept for legacy compatibility |
 | Base | Player API | MC 1.2.5 - Player API client 1.4.zip | Active | Required by Smart Moving |
@@ -43,13 +46,18 @@ Complete compatibility list for JRJR Enhanced 1.2.5.
 | Magic | ThaumCraft | ThaumCraft-2.1.3b.zip | Active | Add after Forestry |
 | Programming | ComputerCraft | ComputerCraft1.41.zip | Active | Add separately |
 | Extra | Portal Gun | portalgun1.2.5v3_client.zip | Active | Requires manual config folder |
+| Extra | Tree Capitator | Treecapitator 1.2.5.e.zip | Active | Tree cutting helper |
 | Transport | Additional Pipes | buildcraft-client-DA-additionalpipes-3.1.0.zip | Active | BuildCraft addon |
 | Transport | Logistics Pipes | LogisticsPipes-BC3-0.2.4A.zip | Active | BuildCraft addon |
 | Transport | Steve's Carts | Steves Carts 1.5.0.zip | Active | Add after main tech mods |
-| NEI Plugin | NEI IC2 Plugin | NEI_IC2Plugin 1.0.3.11.zip | Active | Recipe integration only |
-| NEI Plugin | NEI RailCraft Plugin | NEI_RailCraftPlugin 1.2.2.2_mistaqur.zip | Active | Recipe integration only |
 | NEI Plugin | NEI RedPower Plugin | NEI_RedPowerPlugin 1.2.2.3.zip | Active | Recipe integration only |
-| NEI Plugin | NEI Thaumcraft Plugin | NEI_ThaumcraftPlugin 1.1.1.19.zip | Active | Recipe integration only |
+| NEI Plugin | NEI Buildcraft Plugin | NEI_BuildcraftPlugin 1.0.3.6 | Active | Recipe integration only |
+
+## Skipped/Incompatible - v1.0.0
+
+| NEI Plugin | NEI IC2 Plugin | NEI_IC2Plugin 1.0.3.11.zip | Skipped/Incompatible | Recipe integration only |
+| NEI Plugin | NEI RailCraft Plugin | NEI_RailCraftPlugin 1.2.2.2_mistaqur.zip | Skipped/Incompatible | Recipe integration only |
+| NEI Plugin | NEI Thaumcraft Plugin | NEI_ThaumcraftPlugin 1.1.1.19.zip | Skipped/Incompatible | Recipe integration only |
 
 ## Ignored / Stored
 
