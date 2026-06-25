@@ -2,9 +2,22 @@
 
 All notable changes to this project are documented here.
 
+## [0.2.0] - Stable version
+
+### Added - v0.2.0
+
+* Advanced Machines
+* Nuclear Control
+
+### Status
+
+Core modpack is stable and reaches the main menu successfully.
+
+---
+
 ## [0.1.0]
 
-### Added
+### Added - v0.1.0
 
 * Forge base environment
 * BuildCraft

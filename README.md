@@ -16,9 +16,15 @@ Rather than simply collecting old mods, this project focuses on creating a stabl
 
 ## Current Status
 
-Project is currently under development.
+Current version: v0.2.0
 
-The core technology stack has already been stabilized and new mods are being introduced incrementally.
+✔ Stable core environment
+
+✔ IndustrialCraft² add-ons integrated
+
+Next milestone:
+
+* Forestry compatibility
 
 ## Main Components
 
