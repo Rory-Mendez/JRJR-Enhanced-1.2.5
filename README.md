@@ -28,17 +28,46 @@ Next milestone:
 
 ## Main Components
 
+### Core
+
 * Minecraft 1.2.5
 * Prism Launcher
 * Minecraft Forge
+
+### Technology
+
 * IndustrialCraft²
 * BuildCraft
 * Railcraft
-* RedPower
+* Forestry
+
+### Magic
+
 * Equivalent Exchange 2
+* Thaumcraft
+
+### Automation
+
+* ComputerCraft
+* RedPower
+
+### Utilities
+
 * Wireless Redstone
+* Portal Gun
 
 Additional content will be introduced progressively after compatibility validation.
+
+## Milestones
+
+| Version | Milestone |
+| --------- | ----------- |
+| v0.1.0 | Stable core environment |
+| v0.2.0 | IC2 add-ons |
+| v0.3.0 | Forestry |
+| v0.4.0 | Thaumcraft |
+| v0.5.0 | ComputerCraft |
+| v0.6.0 | Portal Gun |
 
 ## Repository Structure
 

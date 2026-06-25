@@ -2,6 +2,20 @@
 
 All notable changes to this project are documented here.
 
+## [0.6.0]
+
+### Added - v0.6.0
+
+- Portal Gun v3
+
+### Changed
+
+- Reserved block IDs 370–372 for Portal Gun.
+
+### Result
+
+Portal Gun integrated successfully without conflicts.
+
 ## [0.5.0]
 
 ### Added - v0.5.0

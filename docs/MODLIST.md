@@ -42,12 +42,12 @@ Complete compatibility list for JRJR Enhanced 1.2.5.
 | Magic/Tech | Forestry | forestry-client-A-1.4.6.1.jar | v0.3.0 | Next compatibility test |
 | Magic | ThaumCraft | ThaumCraft-2.1.3b.zip | v0.4.0 | Add after Forestry |
 | Programming | ComputerCraft | ComputerCraft1.41.zip | v0.5.0 | Add separately |
+| Extra | Portal Gun | portalgun1.2.5v3_client.zip | v0.6.0 | Requires manual config folder |
 
 ## Pending
 
 | Category | Mod | File | Planned Version | Notes |
 | --- | --- | --- | --- | --- |
-| Extra | Portal Gun | portalgun1.2.5v3_client.zip | v0.6.0 | Requires manual config folder |
 | Transport | Steve's Carts | Steves Carts 1.5.0.zip | v0.7.0 | Add after main tech mods |
 | Transport | Additional Pipes | buildcraft-client-DA-additionalpipes-3.1.0.zip | Later | BuildCraft addon |
 | Transport | Logistics Pipes | LogisticsPipes-BC3-0.2.4A.zip | Later | BuildCraft addon |
