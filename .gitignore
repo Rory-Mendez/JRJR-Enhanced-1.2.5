@@ -1,0 +1,8 @@
+*.zip
+*.jar
+*.class
+mods/
+.minecraft/
+instance/
+logs/
+*.log
