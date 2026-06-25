@@ -38,8 +38,10 @@ Next milestone:
 
 * IndustrialCraft²
 * BuildCraft
-* Railcraft
 * Forestry
+* Railcraft
+* Additional Pipes
+* Logistics Pipes
 
 ### Magic
 
@@ -68,6 +70,7 @@ Additional content will be introduced progressively after compatibility validati
 | v0.4.0 | Thaumcraft |
 | v0.5.0 | ComputerCraft |
 | v0.6.0 | Portal Gun |
+| v0.7.0 | Additional Pipes & Logistics Pipes |
 
 ## Repository Structure
 

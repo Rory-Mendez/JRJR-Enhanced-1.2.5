@@ -14,9 +14,9 @@ This document defines the reserved Block ID ranges used by JRJR Enhanced 1.2.5.
 | Thaumcraft | 340–350 | Active | Reserved block range |
 | ComputerCraft | 360–361 | Active | Moved to avoid Forestry conflicts |
 | Portal Gun | 370–372 | Active | Reserved block range |
+| Additional Pipes | Default | Active | No changes required |
+| Logistics Pipes | Default | Active | No changes required |
 | Steve's Carts | 380–389 | Planned | Reserved |
-| Additional Pipes | 390–394 | Planned | Reserved |
-| Logistics Pipes | 395–399 | Planned | Reserved |
 
 ## High Block IDs
 

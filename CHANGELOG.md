@@ -2,6 +2,18 @@
 
 All notable changes to this project are documented here.
 
+## [0.7.0]
+
+### Added - v0.7.0
+
+- Additional Pipes 3.1.0
+- Logistics Pipes BC3 0.2.4A
+
+### Result - v0.7.0
+
+- BuildCraft ecosystem is now fully integrated.
+- No ID remapping was required.
+
 ## [0.6.0]
 
 ### Added - v0.6.0
@@ -12,7 +24,7 @@ All notable changes to this project are documented here.
 
 - Reserved block IDs 370–372 for Portal Gun.
 
-### Result
+### Result - v0.6.0
 
 Portal Gun integrated successfully without conflicts.
 
@@ -22,11 +34,11 @@ Portal Gun integrated successfully without conflicts.
 
 - ComputerCraft 1.41
 
-### Changed
+### Changed - v0.5.0
 
 - Reserved block IDs 360–361 for ComputerCraft.
 
-### Result
+### Result - v0.5.0
 
 ComputerCraft loads successfully.
 
@@ -36,7 +48,7 @@ ComputerCraft loads successfully.
 
 - ThaumCraft 2.1.3b
 
-### Changed
+### Changed - v0.4.0
 
 - Reserved a dedicated block ID range for ThaumCraft to avoid conflicts with IC2.
 
@@ -50,7 +62,7 @@ Thaumcraft loads successfully and is compatible with the current core modpack.
 
 - Forestry 1.4.6.1
 
-### Changed
+### Changed - v0.3.0
 
 - Reserved a dedicated block ID range for Railcraft to avoid conflicts with Forestry.
 
