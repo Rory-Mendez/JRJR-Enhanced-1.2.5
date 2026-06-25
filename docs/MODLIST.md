@@ -2,7 +2,7 @@
 
 Complete compatibility list for JRJR Enhanced 1.2.5.
 
-## Active - v0.2.0
+## Active - v0.9.0
 
 | Category | Mod | File | Status | Notes |
 | --- | --- | --- | --- | --- |
@@ -39,21 +39,17 @@ Complete compatibility list for JRJR Enhanced 1.2.5.
 | ChickenBones | WR-CBE Core | WR-CBE Core-Client 1.2.2.6.zip | Active | Wireless Redstone |
 | ChickenBones | WR-CBE Addons | WR-CBE Addons-Client 1.2.2.3.zip | Active | Wireless Redstone addons |
 | ChickenBones | WR-CBE RedPower | WR-CBE RedPower-Client 1.2.2.3.zip | Active | RedPower integration |
-| Magic/Tech | Forestry | forestry-client-A-1.4.6.1.jar | v0.3.0 | Next compatibility test |
-| Magic | ThaumCraft | ThaumCraft-2.1.3b.zip | v0.4.0 | Add after Forestry |
-| Programming | ComputerCraft | ComputerCraft1.41.zip | v0.5.0 | Add separately |
-| Extra | Portal Gun | portalgun1.2.5v3_client.zip | v0.6.0 | Requires manual config folder |
-| Transport | Additional Pipes | buildcraft-client-DA-additionalpipes-3.1.0.zip | Later | BuildCraft addon |
-| Transport | Logistics Pipes | LogisticsPipes-BC3-0.2.4A.zip | Later | BuildCraft addon |
-| Transport | Steve's Carts | Steves Carts 1.5.0.zip | v0.7.0 | Add after main tech mods |
-
-## Pending
-
-| Category | Mod | File | Planned Version | Notes |
-| --- | --- | --- | --- | --- |
-| NEI Plugin | NEI IC2 Plugin | NEI_IC2Plugin 1.0.3.11.zip | Later | Recipe integration only |
-| NEI Plugin | NEI RailCraft Plugin | NEI_RailCraftPlugin 1.2.2.2_mistaqur.zip | Later | Recipe integration only |
-| NEI Plugin | NEI RedPower Plugin | NEI_RedPowerPlugin 1.2.2.3.zip | Later | Recipe integration only |
+| Magic/Tech | Forestry | forestry-client-A-1.4.6.1.jar | Active | Next compatibility test |
+| Magic | ThaumCraft | ThaumCraft-2.1.3b.zip | Active | Add after Forestry |
+| Programming | ComputerCraft | ComputerCraft1.41.zip | Active | Add separately |
+| Extra | Portal Gun | portalgun1.2.5v3_client.zip | Active | Requires manual config folder |
+| Transport | Additional Pipes | buildcraft-client-DA-additionalpipes-3.1.0.zip | Active | BuildCraft addon |
+| Transport | Logistics Pipes | LogisticsPipes-BC3-0.2.4A.zip | Active | BuildCraft addon |
+| Transport | Steve's Carts | Steves Carts 1.5.0.zip | Active | Add after main tech mods |
+| NEI Plugin | NEI IC2 Plugin | NEI_IC2Plugin 1.0.3.11.zip | Active | Recipe integration only |
+| NEI Plugin | NEI RailCraft Plugin | NEI_RailCraftPlugin 1.2.2.2_mistaqur.zip | Active | Recipe integration only |
+| NEI Plugin | NEI RedPower Plugin | NEI_RedPowerPlugin 1.2.2.3.zip | Active | Recipe integration only |
+| NEI Plugin | NEI Thaumcraft Plugin | NEI_ThaumcraftPlugin 1.1.1.19.zip | Active | Recipe integration only |
 
 ## Ignored / Stored
 

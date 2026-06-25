@@ -2,6 +2,19 @@
 
 All notable changes to this project are documented here.
 
+## [0.9.0]
+
+### Added - v0.9.0
+
+- NEI IC2 Plugin
+- NEI RedPower Plugin
+- NEI Railcraft Plugin
+- NEI Thaumcraft Plugin
+
+### Result - v0.9.0
+
+Recipe integration completed for supported mods.
+
 ## [0.8.0]
 
 ### Added - v0.8.0

@@ -55,8 +55,11 @@ Next milestone:
 
 ### Utilities
 
+* Not Enough Items (NEI)
+* NEI Plugins
 * Wireless Redstone
 * Portal Gun
+* Stevie's Cart
 
 Additional content will be introduced progressively after compatibility validation.
 
@@ -75,7 +78,7 @@ Additional content will be introduced progressively after compatibility validati
 ## Integration Status
 
 | Mod | Status |
-|------|--------|
+| ------ | -------- |
 | IndustrialCraft² | ✅ |
 | Advanced Machines | ✅ |
 | Nuclear Control | ✅ |
