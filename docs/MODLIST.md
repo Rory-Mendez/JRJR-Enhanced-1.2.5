@@ -39,12 +39,12 @@ Complete compatibility list for JRJR Enhanced 1.2.5.
 | ChickenBones | WR-CBE Core | WR-CBE Core-Client 1.2.2.6.zip | Active | Wireless Redstone |
 | ChickenBones | WR-CBE Addons | WR-CBE Addons-Client 1.2.2.3.zip | Active | Wireless Redstone addons |
 | ChickenBones | WR-CBE RedPower | WR-CBE RedPower-Client 1.2.2.3.zip | Active | RedPower integration |
+| Magic/Tech | Forestry | forestry-client-A-1.4.6.1.jar | v0.3.0 | Next compatibility test |
 
 ## Pending
 
 | Category | Mod | File | Planned Version | Notes |
 | --- | --- | --- | --- | --- |
-| Magic/Tech | Forestry | forestry-client-A-1.4.8.7_bc2.2.jar | v0.3.0 | Next compatibility test |
 | Magic | ThaumCraft | ThaumCraft-2.1.3b.zip | v0.4.0 | Add after Forestry |
 | Programming | ComputerCraft | ComputerCraft1.41.zip | v0.5.0 | Add separately |
 | Extra | Portal Gun | portalgun1.2.5v3_client.zip | v0.6.0 | Requires manual config folder |
