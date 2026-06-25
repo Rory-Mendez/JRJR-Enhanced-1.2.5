@@ -72,6 +72,26 @@ Additional content will be introduced progressively after compatibility validati
 | v0.6.0 | Portal Gun |
 | v0.7.0 | Additional Pipes & Logistics Pipes |
 
+## Integration Status
+
+| Mod | Status |
+|------|--------|
+| IndustrialCraft² | ✅ |
+| Advanced Machines | ✅ |
+| Nuclear Control | ✅ |
+| BuildCraft | ✅ |
+| Additional Pipes | ✅ |
+| Logistics Pipes | ✅ |
+| Forestry | ✅ |
+| Railcraft | ✅ |
+| RedPower | ✅ |
+| Wireless Redstone | ✅ |
+| ComputerCraft | ✅ |
+| Portal Gun | ✅ |
+| Thaumcraft | ✅ |
+| Steve's Carts | ✅ |
+| NEI Plugins | ⏳ Pending |
+
 ## Repository Structure
 
 This repository stores documentation, configuration snapshots and compatibility notes.

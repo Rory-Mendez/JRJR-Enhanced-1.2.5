@@ -2,6 +2,20 @@
 
 All notable changes to this project are documented here.
 
+## [0.8.0]
+
+### Added - v0.8.0
+
+- Steve's Carts 1.5.0
+
+### Changed - v0.8.0
+
+- Reserved block IDs 380–386 for Steve's Carts.
+
+### Result - v0.8.0
+
+Steve's Carts integrated successfully.
+
 ## [0.7.0]
 
 ### Added - v0.7.0

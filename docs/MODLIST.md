@@ -45,12 +45,12 @@ Complete compatibility list for JRJR Enhanced 1.2.5.
 | Extra | Portal Gun | portalgun1.2.5v3_client.zip | v0.6.0 | Requires manual config folder |
 | Transport | Additional Pipes | buildcraft-client-DA-additionalpipes-3.1.0.zip | Later | BuildCraft addon |
 | Transport | Logistics Pipes | LogisticsPipes-BC3-0.2.4A.zip | Later | BuildCraft addon |
+| Transport | Steve's Carts | Steves Carts 1.5.0.zip | v0.7.0 | Add after main tech mods |
 
 ## Pending
 
 | Category | Mod | File | Planned Version | Notes |
 | --- | --- | --- | --- | --- |
-| Transport | Steve's Carts | Steves Carts 1.5.0.zip | v0.7.0 | Add after main tech mods |
 | NEI Plugin | NEI IC2 Plugin | NEI_IC2Plugin 1.0.3.11.zip | Later | Recipe integration only |
 | NEI Plugin | NEI RailCraft Plugin | NEI_RailCraftPlugin 1.2.2.2_mistaqur.zip | Later | Recipe integration only |
 | NEI Plugin | NEI RedPower Plugin | NEI_RedPowerPlugin 1.2.2.3.zip | Later | Recipe integration only |
