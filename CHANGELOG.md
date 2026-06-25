@@ -2,6 +2,20 @@
 
 All notable changes to this project are documented here.
 
+## [0.5.0]
+
+### Added - v0.5.0
+
+- ComputerCraft 1.41
+
+### Changed
+
+- Reserved block IDs 360–361 for ComputerCraft.
+
+### Result
+
+ComputerCraft loads successfully.
+
 ## [0.4.0]
 
 ### Added - v0.4.0
