@@ -10,8 +10,8 @@ This document defines the reserved Block ID ranges used by JRJR Enhanced 1.2.5.
 | IndustrialCraft² | 190–200 | Active | Mostly default IDs |
 | Forestry | 197–208, 4093–4094 | Active | Uses original IDs where possible |
 | RedPower | Default | Active | No changes required |
-| Railcraft | 280–286 | Active | Moved to avoid Forestry conflicts |
-| Thaumcraft | 340–350 | Active | Reserved block range |
+| Railcraft | 400–406 | Active | Moved to avoid Forestry and vanilla conflicts |
+| Thaumcraft | 420–430 | Active | Reserved block range |
 | ComputerCraft | 360–361 | Active | Moved to avoid Forestry conflicts |
 | Portal Gun | 370–372 | Active | Reserved block range |
 | Additional Pipes | Default | Active | No changes required |
